@@ -5,3 +5,6 @@ This template provides a minimal setup to get React working in Vite with HMR and
 ```
 npm i && npm run dev
 ```
+
+UI: localhost:3001
+API: localhost:3001/api/fruits
